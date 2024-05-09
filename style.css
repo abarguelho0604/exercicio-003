@@ -1,0 +1,54 @@
+table {
+
+    border: 1px solid #C7E7F3;
+    width: 600px;
+    font-family: arial;
+    font-size: 12px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+#titulo {
+    width: 100%;
+}
+
+#tabela {
+    text-align: center;
+}
+
+#cabecalho {
+    text-align: center;
+    border: 100%;
+    height: 50px;
+    width: max-content;
+    color: white;
+    background-color: #0D5188;
+    font-weight: bold;
+}
+
+#prata {
+    background-color: #c0c0c0;
+    font-weight: normal;
+}
+
+#azul-medio {
+    background-color: #66C5E3;
+    font-weight: bold;
+}
+
+#azul-escuro {
+    color: #0D5188;
+    background-color: #C7E7F3;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+#cidade {
+    text-align: left;
+}
+
+#populacao {
+    background-color: #C7E7F3;
+    font-weight: normal;
+}
